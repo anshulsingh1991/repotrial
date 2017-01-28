@@ -1,2 +1,2 @@
 # repotrial
-test repo
+test repotrial
